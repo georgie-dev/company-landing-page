@@ -4,6 +4,9 @@
 body{
     background-color:#fff;
 }
+html{
+    scroll-behavior: smooth;
+}
 #top-bar{
     display: flex;
     width: 100%;
